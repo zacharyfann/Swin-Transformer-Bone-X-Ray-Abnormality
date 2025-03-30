@@ -1,4 +1,4 @@
-# Swin-Transformer_Bone_X-Ray_Abnormality
+# Swin Transformer Bone X-Ray Abnormality
 
 After hours of tinkering and training of Swin Transformer Custom Models, I achieved an accuracy of about ~70% for Abnormality classification with an ~83% type accuracy.
 
